@@ -1,9 +1,9 @@
 //and so people started making weird noises, others understood them, and spoke em too.
 
-/datum/language/neweracode
+/datum/language/newera
 	icon = 'modular_newera/icons/misc/language.dmi'
 
-/datum/language/neweracode/sergal
+/datum/language/newera/sergal
 	name = LANGUAGE_SERGAL
 	desc = "The dominant language of the Sergal homeworld, Tal. It consists of aggressive low-pitched hissing and throaty growling."
 	speech_verb = "snarls"
