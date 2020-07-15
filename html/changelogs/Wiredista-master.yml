@@ -1,6 +1,6 @@
-author: Deantwo
+author: Wiredista
    
    delete-after: True
    
    changes: 
-     - rscadd: "Added HEV sounds to integrated circuitry."
+     - rscadd: "Added HEV sounds to integrated circuitry." 
