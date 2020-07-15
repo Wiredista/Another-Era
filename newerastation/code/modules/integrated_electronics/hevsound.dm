@@ -1,6 +1,6 @@
 /obj/item/integrated_circuit/output/sound/hev_sound
-	name = "H.E.V voice system"
-	desc = "Takes a sound name as an input, and will play said sound when pulsed. This circuit was taken off from an H.E.V suit."
+	name = "H.E.V Voice System"
+	desc = "Takes a sound name as an input, and will play said sound when pulsed. This circuit was salvaged off an old era H.E.V suit."
 	sounds = list(
         "_comma" = 'newerastation/sound/hev/_comma.wav',
         "_period" = 'newerastation/sound/hev/_period.wav',
@@ -146,7 +146,3 @@
         "your" = 'newerastation/sound/hev/your.wav',
 		)
 	spawn_flags = IC_SPAWN_DEFAULT|IC_SPAWN_RESEARCH
-
-
-
-    
