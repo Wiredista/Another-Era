@@ -34,6 +34,7 @@
 	/client/proc/cmd_admin_subtle_message,	/*send an message to somebody as a 'voice in their head'*/
 	/client/proc/cmd_admin_check_contents,	/*displays the contents of an instance*/
 	/client/proc/check_antagonists,		/*shows all antags*/
+	/client/proc/open_team_panel,      /*New era - TGUI Team Panel*/
 	/client/proc/jumptocoord,			/*we ghost and jump to a coordinate*/
 	/client/proc/getcurrentlogs,		/*for accessing server logs for the current round*/
 	/client/proc/Getmob,				/*teleports a mob to our location*/
@@ -44,6 +45,8 @@
 	/client/proc/jumptomob,				/*allows us to jump to a specific mob*/
 	/client/proc/jumptoturf,			/*allows us to jump to a specific turf*/
 	/client/proc/admin_call_shuttle,	/*allows us to call the emergency shuttle*/
+	/client/proc/admin_disable_shuttle, /*sk -- disables emergency shuttle*/
+	/client/proc/admin_enable_shuttle, /*sk -- enables emergency shuttle*/
 	/client/proc/admin_cancel_shuttle,	/*allows us to cancel the emergency shuttle, sending it back to centcom*/
 	/client/proc/cmd_admin_check_player_exp, /* shows players by playtime */
 	/client/proc/toggle_combo_hud, // toggle display of the combination pizza antag and taco sci/med/eng hud
